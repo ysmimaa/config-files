@@ -1,2 +1,2 @@
 # config-service
-The configuration centrelize service 
+Files for the MS's configuration 
